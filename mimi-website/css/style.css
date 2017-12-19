@@ -1,0 +1,16 @@
+body {
+	background-image: url("../img/heart.png");
+	background-color: pink;
+	background-size: 100px;
+}
+
+img {
+	border: 5px solid;
+	border-color: violet;
+	border-radius: 20px;
+}
+
+h1{
+	color: rebeccapurple;
+	font-family: 'Crimson Text', serif;
+}
